@@ -29,16 +29,6 @@ Design a secure **LAN/WAN topology** for HealthPlus Pharmacy Group with 8 outlet
 - Device selection and justification  
 - Technical report writing  
 
-**Files Included:**  
-- Documentation: `Assignment1/Documentation.pdf`  
-- Packet Tracer Files:  
-  - `Assignment1/NetworkConfigs/SuvaOffice.pkt`  
-  - `Assignment1/NetworkConfigs/NausoriOutlet.pkt`  
-  - *(other outlet configurations)*  
-- Screenshots of topologies:  
-  - `Assignment1/Screenshots/SuvaOffice.png`  
-  - `Assignment1/Screenshots/NausoriOutlet.png`  
-
 ---
 
 ## Assignment 2 – XYZ Corporation Network Analysis and Security
@@ -65,13 +55,6 @@ Analyze and configure a **corporate network** to implement VLANs, DHCP, and ACLs
 - ACL configuration for network security  
 - Network troubleshooting and simulation  
 - Technical report writing  
-
-**Files Included:**  
-- Documentation: `Assignment2/TechnicalReport.pdf`  
-- Packet Tracer File: `Assignment2/NetworkConfigs/XYZCorpNetwork.pkt`  
-- Screenshots of configured network:  
-  - `Assignment2/Screenshots/VLANs.png`  
-  - `Assignment2/Screenshots/ACLs.png`  
 
 ---
 
